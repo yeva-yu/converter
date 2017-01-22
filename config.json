@@ -1,0 +1,4 @@
+{
+  "hostname": "https://desolate-wave-64068.herokuapp.com/",
+  "filesToConvert": ["drinking.csv", "renamed.csv"]
+}
